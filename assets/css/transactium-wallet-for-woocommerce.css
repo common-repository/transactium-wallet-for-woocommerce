@@ -1,0 +1,4 @@
+.billing_dateofbirth_year { width: 4.8em !important; }
+.billing_dateofbirth_month { width: 7.8em !important; }
+.billing_dateofbirth_month select { height: 42px !important; }
+.billing_dateofbirth_day { width: 4.2em !important; }
